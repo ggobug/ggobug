@@ -9,7 +9,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
   
-![ggobug's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggobug&hide_title=true&theme=moltack&show_icons=true&include_all_commits=true&disable_animations=true)
+![ggobug's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggobug&hide_title=true&theme=moltack&show_icons=true&include_all_commits=true&disable_animations=true&count_private=true&cache_seconds=1800)
 <div align="center">
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggobug&layout=compact&theme=nord&hide_border=true" /></a> 
